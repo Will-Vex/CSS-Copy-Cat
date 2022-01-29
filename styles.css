@@ -1,0 +1,83 @@
+#background {
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    min-width: 1050px;
+    height: 880px;
+    z-index: -1;
+    background-image: url(https://blogger.googleusercontent.com/img/a/AVvXsEi6ymzHQ72Xbd5W7TY6ptL6aubZt14PHN1f5rPfyxna2sXF6i_570-azrbuGR7bjkePHuhH7Fql6Ulok7NGor57erzqx6EuCOOOa-w8IL0nuGhdLCDiFw1Qy8zeu3lMkngEUHJ1KgXUpps_w3jwdGBz_Ur2VP6toZZpq8Fv7kaeAyG6oApljsc4h3uQ=s2560);
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+}
+article{
+    width: 700px;
+}
+main {
+    position: absolute;
+    top: 0;
+    width: 1050px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+header {
+   height: 200px; 
+}
+#navbar {
+    top: 0px;
+    height: 40px;
+    width: 1050px;
+    margin: auto;
+}
+#navbar a:link, #navbar a:visited {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    padding-top: 8px;
+    
+}
+
+#navbar a:hover, #navbar a:active {
+    background-color: #E07400;
+}
+#home {
+    
+    width: 150px;
+    height: 40px;
+    display: inline-block;
+    margin-right: 6px;
+}
+#pbe {
+    width: 151px;
+    height: 40px;
+    display: inline-block;
+    margin-right: 6px;
+}
+#releases {
+    width: 151px;
+    height: 40px;
+    display: inline-block;
+    margin-right: 6px;
+}
+#red-posts {
+    width: 189px;
+    height: 40px;
+    display: inline-block;
+    margin-right: 6px;
+}
+#rotations {
+    width: 175px;
+    height: 40px;
+    display: inline-block;
+    margin-right: 6px;
+}
+#esports {
+    width: 155px;
+    height: 40px;
+    display: inline-block;
+    margin-right: 0;
+}
